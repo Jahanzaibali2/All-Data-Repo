@@ -16,5 +16,9 @@ public class demo {
     {
         System.out.println("this is dev branch");
     }
+    public void demoTest2()
+    {
+        System.out.println("this is another work");
+    }
 
 }
